@@ -1,4 +1,4 @@
-<img width="389" height="411" alt="6e67f248-e7c3-4a52-bd55-e1fdf79a27d0" src="https://github.com/user-attachments/assets/ba6836f5-3d27-4683-83e7-a7da7373b544" /># Implementation-of-filter
+
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -23,8 +23,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-### Developed By   : Dharshan V
-### Register Number: 212224240035
+### Developed By   : KARTHIKEYAN K
+### Register Number: 212223230101
 </br>
 
 ### 1. Smoothing Filters
@@ -137,21 +137,19 @@ plt.show()
 
 ### 1. Smoothing Filters
 
-## i) Using Averaging Filter
-<img width="389" height="411" alt="bd475add-a34e-4094-b7b1-60db2d360f84" src="https://github.com/user-attachments/assets/2bf8f861-94c2-472b-be52-d453166abb86" />
 
 
 
-## ii)Using Weighted Averaging Filter
+## i)Using Weighted Averaging Filter
 <img width="389" height="411" alt="bd475add-a34e-4094-b7b1-60db2d360f84" src="https://github.com/user-attachments/assets/19c97418-75fb-4b10-bef3-a1c26e6afdbe" />
 
 
 
-## iii)Using Gaussian Filter
+## ii)Using Gaussian Filter
 <img width="389" height="411" alt="6e67f248-e7c3-4a52-bd55-e1fdf79a27d0" src="https://github.com/user-attachments/assets/8917c62b-2bf3-44f7-ad7b-b8d4ea59fb0a" />
 
 
-## iv) Using Median Filter
+## iii) Using Median Filter
 <img width="389" height="411" alt="616125a9-2a7a-482b-a4d4-da1f0f8e0ecc" src="https://github.com/user-attachments/assets/ffbdcc9b-0f2e-4afc-a3e7-4106a9e857a0" />
 
 ### 2. Sharpening Filters
